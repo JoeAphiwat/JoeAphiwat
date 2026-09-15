@@ -1,6 +1,6 @@
 # About Me : 👋
 
- Hi, I'm Aphiwat, a dedicated QA Engineer. With a passion for meticulous testing, I specialize in effective test management to ensure the seamless and high-quality performance of our software.
+I'm Aphiwat, a dedicated QA Engineer. With a passion for meticulous testing, I specialize in effective test management to ensure the seamless and high-quality performance of our software.
 
 # 🧑‍💻 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joeAphiwat&theme=radical&hide_border=false)
